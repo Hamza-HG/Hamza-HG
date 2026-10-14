@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Profile banner" width="100%" />
+  <img src="./assets/banner.png" alt="Profile banner" width="100%" />
 </p>
 <p align="center">
 <p align="center">
@@ -39,35 +39,35 @@ This GitHub is where I document my projects, experiments, and progress as I lear
 ## ## Tech Stack
 
 <p align="center">
-  <a href="https://chatgpt.com"><img src="chatgpt.svg" width="52" height="52" alt="ChatGPT" /></a>
+  <a href="https://chatgpt.com"><img src="./assets/chatgpt.svg" width="52" height="52" alt="ChatGPT" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.kali.org"><img src="kali.svg" width="52" height="52" alt="Kali Linux" /></a>
+  <a href="https://www.kali.org"><img src="./assets/kali.svg" width="52" height="52" alt="Kali Linux" /></a>
   &nbsp;&nbsp;
-  <a href="https://gemini.google.com"><img src="gemini.svg" width="52" height="52" alt="Gemini" /></a>
+  <a href="https://gemini.google.com"><img src="./assets/gemini.svg" width="52" height="52" alt="Gemini" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Hamza-HG"><img src="github.svg" width="52" height="52" alt="GitHub" /></a>
+  <a href="https://github.com/Hamza-HG"><img src="./assets/github.svg" width="52" height="52" alt="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="https://claude.ai"><img src="claude.svg" width="52" height="52" alt="Claude" /></a>
+  <a href="https://claude.ai"><img src="./assets/claude.svg" width="52" height="52" alt="Claude" /></a>
   &nbsp;&nbsp;
-  <a href="https://git-scm.com"><img src="git.svg" width="52" height="52" alt="Git" /></a>
+  <a href="https://git-scm.com"><img src="./assets/git.svg" width="52" height="52" alt="Git" /></a>
   &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com"><img src="vscode.svg" width="52" height="52" alt="VS Code" /></a>
+  <a href="https://code.visualstudio.com"><img src="./assets/vscode.svg" width="52" height="52" alt="VS Code" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="java.svg" width="52" height="52" alt="Java" /></a>
+  <a href="#"><img src="./assets/java.svg" width="52" height="52" alt="Java" /></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="javascript.svg" width="52" height="52" alt="JavaScript" /></a>
+  <a href="#"><img src="./assets/javascript.svg" width="52" height="52" alt="JavaScript" /></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="html.svg" width="52" height="52" alt="HTML" /></a>
+  <a href="#"><img src="./assets/html.svg" width="52" height="52" alt="HTML" /></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="php.svg" width="52" height="52" alt="PHP" /></a>
+  <a href="#"><img src="./assets/php.svg" width="52" height="52" alt="PHP" /></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="c.svg" width="52" height="52" alt="C" /></a>
+  <a href="#"><img src="./assets/c.svg" width="52" height="52" alt="C" /></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="sql.svg" width="52" height="52" alt="SQL" /></a>
+  <a href="#"><img src="./assets/sql.svg" width="52" height="52" alt="SQL" /></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="git.svg" width="52" height="52" alt="Git" /></a>
+  <a href="#"><img src="./assets/git.svg" width="52" height="52" alt="Git" /></a>
 </p>
 
 **Languages:** English · Arabic · French
