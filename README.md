@@ -98,7 +98,7 @@ This GitHub is where I document my projects, experiments, and progress as I lear
 Open to freelance projects and software or security internships. Send me a message through any of the links above.
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Hamza-HG&label=Profile%20views&labelColor=%000000&countColor=%23B3261E&style=flat-square" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Hamza-HG&label=Profile%20views&labelColor=%23000000&countColor=%23B3261E&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center"><sub><i>Life doesn't get easier, you just get better.</i></sub></p>
