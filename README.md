@@ -74,11 +74,11 @@ This GitHub is where I document my projects, experiments, and progress as I lear
 ## ## Connect With Me!
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="telegram.svg" width="52" height="52" alt="Telegram" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="./assets/telegram.svg" width="52" height="52" alt="Telegram" /></a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/YOUR_NUMBER_WITH_COUNTRY_CODE"><img src="whatsapp.svg" width="52" height="52" alt="WhatsApp" /></a>
+  <a href="https://wa.me/YOUR_NUMBER_WITH_COUNTRY_CODE"><img src="./assets/whatsapp.svg" width="52" height="52" alt="WhatsApp" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="linkedin.svg" width="52" height="52" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="./assets/linkedin.svg" width="52" height="52" alt="LinkedIn" /></a>
 </p>
 
 <p align="center"><sub>Message me. I'll reply in 5 minutes.</sub></p>
